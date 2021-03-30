@@ -5,3 +5,4 @@ function somaEprodutoDosValores(valor1, valor2, valor3, valor4){
 
 }
 somaEprodutoDosValores(1, 1, 1, 1)
+
